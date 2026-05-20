@@ -1,3 +1,3 @@
 # ZerO
-ZerO FoR LearninG
-First Change in ZerO
+ZerO FoR LearninG.
+First Change in ZerO.
